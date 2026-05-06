@@ -1,6 +1,6 @@
 # Patika.dev Java 102 SQL Assignments
 
-This repository contains SQL assignments (ödevler) completed during Patika.dev's Java 102 intermediate programming course, which includes a module on SQL. These assignments involve writing various queries and database operations on sample databases (e.g., dvdrental with tables like film, actor, customer).
+This repository contains SQL assignments completed during Patika.dev's Java 102 intermediate programming course, which includes a module on SQL. These assignments involve writing various queries and database operations on sample databases (e.g., dvdrental with tables like film, actor, customer).
 
 The SQL exercises cover basic to advanced topics, including SELECT statements, filtering, aggregates, grouping, joins, subqueries, and database modifications. They demonstrate proficiency in database management using PostgreSQL or similar.
 
